@@ -27,7 +27,7 @@ import {
   //meta,
   starbucks,
   tesla,
-  //shopify,
+  shopify,
   carrent,
   jobit,
   tripguide,
@@ -140,8 +140,8 @@ const technologies: TTechnology[] = [
 
 const experiences: TExperience[] = [
   {
-    title: "Randox-Laboratory",
-    companyName: "UWU",
+    title: "Web Developer",
+    companyName: "Randox-Laboratory",
     icon: starbucks,
     iconBg: "#383E56",
     date: " MAY 2023-SEPTEMBER 2023",
@@ -154,8 +154,8 @@ const experiences: TExperience[] = [
     ],
   },
   {
-    title: "HappyTank",
-    companyName: "UWU",
+    title: "Web developer",
+    companyName: "HappyTank",
     icon: tesla,
     iconBg: "#E6DEDD",
     date: " MAY 2024-SEPTEMBER 2024",
@@ -167,19 +167,20 @@ const experiences: TExperience[] = [
       "Participating in code reviews and providing constructive feedback to other developers.",
     ],
   },
-  // {
-  //   title: "Web Developer",
-  //   companyName: "Shopify",
-  //   icon: shopify,
-  //   iconBg: "#383E56",
-  //   date: "Jan 2022 - Jan 2023",
-  //   points: [
-  //     "Developing and maintaining web applications using React.js and other related technologies.",
-  //     "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
-  //     "Implementing responsive design and ensuring cross-browser compatibility.",
-  //     "Participating in code reviews and providing constructive feedback to other developers.",
-  //   ],
-  // },
+  {
+    title: "Web Developer",
+    companyName: "Portfolio",
+    icon: shopify,
+    iconBg: "#383E56",
+    date: "Jan 2022 - Jan 2023",
+    points: [
+      "Developing and maintaining a web application using React.js, Typscript, javascript and other related technologies.",
+      // "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
+      "As a Quality assurance role i checked all functionalities by manual testing",
+      "Implementing responsive design and ensuring cross-browser compatibility.",
+      "Participating in code reviews and providing constructive feedback to other developers.",
+    ],
+  },
   // {
   //   title: "Full stack Developer",
   //   companyName: "Meta",
